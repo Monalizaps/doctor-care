@@ -2,7 +2,7 @@
 
 ![Imagem do resultado do projeto](./assets/resultado.png)
 <br>
-> 🚀 <a href="https://lucyanovidio.github.io/doctorcare">Acesse aqui</a> &nbsp; | &nbsp; 
+> 🚀 <a href="https://monalizaps.github.io/doctor-care/">Acesse aqui</a> &nbsp; | &nbsp; 
 🖌 <a href="https://www.figma.com/community/file/1102912263666619803/DoctorCare">Figma do projeto</a>
 
 ## 💻 Sobre
@@ -39,7 +39,7 @@ O projeto DoctorCare é um site que foi desenvolvido na Next Level Week 8 ("Retu
       <img src="https://github.com/rocketseat-education.png" width="100px" />
     </td>
     <td>
-      Feito por <a href="https://github.com/monaliza-pereira">Monaliza Pereira</a> 🔮
+      Feito por <a href="https://github.com/monalizaps">Monaliza Pereira</a> 🔮
       <br> Junto com <a href="https://rocketseat.com.br">Rocketseat</a> 🚀.
     </td>
   </tr>
